@@ -41,6 +41,12 @@ body{
 .login_form{
     position: relative;
 }
+.login_form p{
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+
 
 .login_form .icon-user{
     position:absolute;
